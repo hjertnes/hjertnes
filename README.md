@@ -12,7 +12,6 @@ Online you can find me here:
 - <https://dog.estate/@hjertnes>
 - <https://hjertnes.website>
 - <https://blog.hjertnes.website>
-- <https://wiki.hjertnes.website>
 - I'm also on Freenode if IRC is your thing. 
 
 If you want to support my I have a sponsor account on Github, plus <https://www.buymeacoffee.com/hjertnes> and <https://ko-fi.com/hjertnes>
